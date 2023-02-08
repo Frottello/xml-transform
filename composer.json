@@ -1,5 +1,5 @@
 {
-    "name": "cdekok/xml-transform",
+    "name": "fransverbeek/xml-transform",
     "description": "XML to Array transformer",
 	"keywords": ["xml","mapping","transformer"],
     "license": "MIT",
